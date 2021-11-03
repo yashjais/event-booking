@@ -11,6 +11,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.8.11",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   }
 }
